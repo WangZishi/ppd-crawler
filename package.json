@@ -1,0 +1,22 @@
+{
+  "name": "ppd-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WangZishi/ppd-crawler.git"
+  },
+  "keywords": [
+    "crawler"
+  ],
+  "author": "WangZishi <ynh.2@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WangZishi/ppd-crawler/issues"
+  },
+  "homepage": "https://github.com/WangZishi/ppd-crawler#readme"
+}
